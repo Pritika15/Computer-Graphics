@@ -1,0 +1,4 @@
+﻿  Bresenhamcircle.cpp
+C:\Users\hp\source\repos\Bresenhamcircle\Bresenhamcircle\Bresenhamcircle.cpp(31,9): warning C4101: 'k': unreferenced local variable
+C:\Users\hp\source\repos\Bresenhamcircle\Bresenhamcircle\Bresenhamcircle.cpp(70,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bresenhamcircle.vcxproj -> C:\Users\hp\source\repos\Bresenhamcircle\Debug\Bresenhamcircle.exe
